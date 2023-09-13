@@ -4,7 +4,7 @@
 <img align="center" src="https://github.com/gap125/tugas-sinyal/blob/main/A.png" width="600px" alt="lalit's Github Stats">
 
 <h3>B. Result and Script on Spyder</h3>
-<p>Python Scipt: https://github.com/mekatronik-achmadi/tugas-sinyal/blob/main/signal_filter.py</p>
+<p>Python Scipt: https://github.com/gap125/sinyal/blob/main/filtering.py</p>
 <img align="center" src="https://github.com/gap125/tugas-sinyal/blob/main/B.png" width="960px" alt="lalit's Github Stats">
 
 <h3>C. Last Commit Logs</h3>
